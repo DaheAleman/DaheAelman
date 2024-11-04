@@ -1,1 +1,2 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?DaheAlemanr=DenverCoder1)](https://git.io/streak-stats)
+
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png)](https://github.com/DaheAleman)
